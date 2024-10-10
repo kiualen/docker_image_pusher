@@ -3,3 +3,4 @@ postgres
 mysql:8.2.0
 redis:latest
 sonatype/nexus3
+keking/kkfileview:latest
