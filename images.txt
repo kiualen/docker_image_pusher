@@ -6,4 +6,5 @@ sonatype/nexus3
 keking/kkfileview:latest
 python:3.11.8-alpine
 mongo
-gcpaas/dataroom:2.0.0
+allinssl/allinssl
+certimate/certimate:v0.3.26
