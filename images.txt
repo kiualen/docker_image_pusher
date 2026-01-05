@@ -1,4 +1,3 @@
-1panel/openresty:1.21.4.3-3-2-focal
 postgres
 mysql:8.2.0
 redis:latest
@@ -8,3 +7,4 @@ python:3.11.8-alpine
 mongo
 allinssl/allinssl
 certimate/certimate:v0.3.26
+certimate/certimate:latest
