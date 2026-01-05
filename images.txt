@@ -6,5 +6,4 @@ keking/kkfileview:latest
 python:3.11.8-alpine
 mongo
 allinssl/allinssl
-certimate/certimate:v0.3.26
 certimate/certimate:latest
